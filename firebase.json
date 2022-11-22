@@ -1,0 +1,5 @@
+{
+  "database": {
+    "rules": "sec-rules.rules.json"
+  }
+}
